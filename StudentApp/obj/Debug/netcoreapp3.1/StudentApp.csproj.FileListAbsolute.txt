@@ -1,0 +1,12 @@
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.exe
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.deps.json
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.runtimeconfig.json
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.runtimeconfig.dev.json
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.dll
+D:\Git\StudentApp\StudentApp\bin\Debug\netcoreapp3.1\StudentApp.pdb
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.AssemblyInfoInputs.cache
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.AssemblyInfo.cs
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.csproj.CoreCompileInputs.cache
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.dll
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.pdb
+D:\Git\StudentApp\StudentApp\obj\Debug\netcoreapp3.1\StudentApp.genruntimeconfig.cache
